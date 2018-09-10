@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Estoy escribiendo esto desde master
+=======
+Estoy escribiendo desde myBranch
+>>>>>>> myBranch
